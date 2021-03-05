@@ -1,0 +1,16 @@
+{
+    "info": {
+        "url_png_icon_64x64": "https://raw.githubusercontent.com/FASTstakepool/meta/master/icon.png",
+        "url_png_logo": "https://raw.githubusercontent.com/FASTstakepool/meta/master/logo.png",
+        "social": {
+            "telegram_handle": "FASTstakepool",
+            "github_handle": "FASTstakepool"
+        }
+    },
+    "my-pool-ids": {
+        "0": "a915178a0195af9166fccd42a69407f1af109faf64c3c409ab2790ec"
+    },
+    "telegram-admin-handle": {
+        "0": "FASTstakepool"
+    }
+}
