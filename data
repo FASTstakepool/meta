@@ -2,5 +2,6 @@
     "name": "FAST Stakepool",
     "ticker": "FAST",
     "description": "0% Fee, 40 Gbps Bandwidth, 1 ms Latency. The FAST Stakepool is designed to be as fast and reliable as possible.",
-    "homepage": "https://www.faststakepool.com"
+    "homepage": "https://www.faststakepool.com",
+    "extended": "https://raw.githubusercontent.com/FASTstakepool/meta/master/extended"
 }
